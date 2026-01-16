@@ -1,0 +1,21 @@
+baseURL = 'https://false-positives.github.io'
+languageCode = 'en-us'
+title = 'false positives'
+theme = 'PaperMod'
+
+[taxonomies]
+  tag = 'tags'
+  category = 'categories'
+
+[params]
+  ShowReadingTime = true
+  ShowShareButtons = false
+  ShowCodeCopyButtons = true
+  ShowBreadCrumbs = true
+  ShowToc = true
+  TocOpen = false
+  ShowPostNavLinks = false
+  defaultTheme = 'auto'
+  [params.cover]
+    linkFullImages = true
+    responsiveImages = true
