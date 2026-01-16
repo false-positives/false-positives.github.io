@@ -1,7 +1,7 @@
 ---
 title: "FP#00 - Between signal and noise"
 date: 2024-01-01T00:00:00Z
-draft: true
+draft: false
 ---
 
 ### why false positives?
